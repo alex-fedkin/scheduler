@@ -16,15 +16,7 @@ The program has two files: scheduler.ipynb and calendar_padding.ipynb (calendar.
   menu to highlight one worker at a time.
 
 ## Share the calendar
-
-1) Save the html file on Google Drive
-2) Create a site on drvx.net:
-   - GoDrive
-   - index.html
-   - Google Drive link
-   - Project name (e.g. February)
-   - Create 4 number security pin
-   - Create website
+[📅 Click here to view the Interactive Schedule](https://alex-fedkin.github.io/scheduler/)
 
 
 ## Uploading history
