@@ -1,0 +1,183 @@
+Date,Day of Week,Day Shift (12hr),Night Shift (12hr),Full Clinic (8hr),Half Clinic (4hr)
+2026-09-27,Sunday,Mabel,Reagan,None,None
+2026-09-28,Monday,Cezanne,Mabel,"Nami, Linda, Jenn, Kaili",Alison
+2026-09-29,Tuesday,Nami,Linda,"Reagan, Jenn, Dana, Kaili, Cezanne",None
+2026-09-30,Wednesday,Jenn,Nami,"Mabel, Reagan, Dana, Alison",None
+2026-10-01,Thursday,Dana,Jenn,"Mabel, Linda, Alison",Reagan
+2026-10-02,Friday,Kaili,Dana,"Reagan, Nami, Linda, Alison",None
+2026-10-03,Saturday,Alison,Kaili,None,None
+2026-10-04,Sunday,Linda,Alison,None,None
+2026-10-05,Monday,Reagan,Linda,"Mabel, Nami, Jenn, Dana",Kaili
+2026-10-06,Tuesday,Mabel,Cezanne,"Reagan, Nami, Jenn, Dana",Alison
+2026-10-07,Wednesday,Dana,Mabel,"Reagan, Linda, Kaili, Alison",None
+2026-10-08,Thursday,Nami,Dana,"Reagan, Linda, Kaili, Alison, Cezanne",None
+2026-10-09,Friday,Jenn,Nami,"Mabel, Kaili, Alison",Reagan
+2026-10-10,Saturday,Kaili,Jenn,None,None
+2026-10-11,Sunday,Nami,Kaili,None,None
+2026-10-12,Monday 🎉 [HOLIDAY],Jenn,Nami,🏥 CLOSED,🏥 CLOSED
+2026-10-13,Tuesday,Reagan,Jenn,"Mabel, Linda, Dana",Kaili
+2026-10-14,Wednesday,Cezanne,Reagan,"Mabel, Alison","Linda, Dana"
+2026-10-15,Thursday,Linda,Mabel,"Nami, Jenn, Kaili",None
+2026-10-16,Friday,Alison,Linda,"Reagan, Dana, Kaili",None
+2026-10-17,Saturday,Dana,Alison,None,None
+2026-10-18,Sunday,Jenn,Dana,None,None
+2026-10-19,Monday,Kaili,Jenn,"Mabel, Reagan, Linda, Alison, Cezanne",None
+2026-10-20,Tuesday,Alison,Kaili,"Mabel, Nami, Dana",Linda
+2026-10-21,Wednesday,Linda,Alison,"Reagan, Jenn, Dana",Nami
+2026-10-22,Thursday,Reagan,Cezanne,"Nami, Linda, Jenn, Kaili",Dana
+2026-10-23,Friday,Mabel,Reagan,"Nami, Linda, Dana, Kaili, Alison",None
+2026-10-24,Saturday,Nami,Mabel,None,None
+2026-10-25,Sunday,Reagan,Nami,None,None
+2026-10-26,Monday,Dana,Reagan,"Mabel, Linda, Jenn, Kaili, Alison",None
+2026-10-27,Tuesday,Mabel,Dana,"Nami, Linda, Jenn, Kaili, Alison",None
+2026-10-28,Wednesday,Kaili,Mabel,"Reagan, Nami, Linda, Cezanne",Jenn
+2026-10-29,Thursday,Alison,Kaili,"Reagan, Nami, Dana",Linda
+2026-10-30,Friday,Cezanne,Alison,"Mabel, Jenn, Dana",Nami
+2026-10-31,Saturday,Linda,Jenn,None,None
+2026-11-01,Sunday,Mabel,Linda,None,None
+2026-11-02,Monday,Alison,Mabel,"Reagan, Nami, Jenn, Dana",Kaili
+2026-11-03,Tuesday,Jenn,Alison,"Reagan, Nami, Cezanne","Linda, Dana"
+2026-11-04,Wednesday,Reagan,Jenn,"Mabel, Linda, Dana, Kaili",None
+2026-11-05,Thursday,Nami,Reagan,"Mabel, Linda, Dana, Kaili, Alison",None
+2026-11-06,Friday,Dana,Nami,"Linda, Jenn, Kaili, Alison",None
+2026-11-07,Saturday,Kaili,Cezanne,None,None
+2026-11-08,Sunday,Jenn,Kaili,None,None
+2026-11-09,Monday,Cezanne,Jenn,"Mabel, Nami, Dana, Alison",None
+2026-11-10,Tuesday,Reagan,Dana,"Kaili, Alison",Mabel
+2026-11-11,Wednesday 🎉 [HOLIDAY],Nami,Reagan,🏥 CLOSED,🏥 CLOSED
+2026-11-12,Thursday,Mabel,Nami,"Linda, Jenn","Dana, Kaili"
+2026-11-13,Friday,Linda,Mabel,"Reagan, Dana, Kaili",Alison
+2026-11-14,Saturday,Alison,Linda,None,None
+2026-11-15,Sunday,Dana,Alison,None,None
+2026-11-16,Monday,Nami,Cezanne,"Mabel, Reagan, Linda, Kaili",Dana
+2026-11-17,Tuesday,Linda,Nami,"Mabel, Reagan, Jenn, Kaili",Alison
+2026-11-18,Wednesday,Kaili,Linda,"Mabel, Jenn, Dana, Alison, Cezanne",None
+2026-11-19,Thursday,Jenn,Kaili,"Nami, Dana, Alison",Mabel
+2026-11-20,Friday,Reagan,Jenn,"Nami, Linda, Dana, Alison",None
+2026-11-21,Saturday,Mabel,Reagan,None,None
+2026-11-22,Sunday,Jenn,Mabel,None,None
+2026-11-23,Monday,Linda,Jenn,"Reagan, Nami, Dana, Kaili",None
+2026-11-24,Tuesday,Cezanne,Linda,"Mabel, Nami, Dana, Alison",None
+2026-11-25,Wednesday,Alison,Dana,"Mabel, Jenn",Nami
+2026-11-26,Thursday 🎉 [HOLIDAY],Reagan,Alison,🏥 CLOSED,🏥 CLOSED
+2026-11-27,Friday,Kaili,Reagan,Linda,"Mabel, Dana"
+2026-11-28,Saturday,Nami,Kaili,None,None
+2026-11-29,Sunday,Reagan,Nami,None,None
+2026-11-30,Monday,Dana,Reagan,"Mabel, Linda, Jenn, Kaili, Alison",None
+2026-12-01,Tuesday,Kaili,Dana,"Mabel, Nami, Linda, Alison, Cezanne",None
+2026-12-02,Wednesday,Mabel,Cezanne,"Reagan, Nami, Jenn, Kaili",Alison
+2026-12-03,Thursday,Linda,Mabel,"Reagan, Dana","Nami, Kaili"
+2026-12-04,Friday,Jenn,Linda,"Nami, Dana, Kaili, Alison",None
+2026-12-05,Saturday,Alison,Jenn,None,None
+2026-12-06,Sunday,Linda,Alison,None,None
+2026-12-07,Monday,Kaili,Linda,"Mabel, Jenn, Dana, Cezanne",Reagan
+2026-12-08,Tuesday,Mabel,Kaili,"Reagan, Nami, Jenn, Alison",Dana
+2026-12-09,Wednesday,Jenn,Mabel,"Reagan, Nami, Dana, Alison",None
+2026-12-10,Thursday,Cezanne,Jenn,"Reagan, Linda, Dana, Kaili",Alison
+2026-12-11,Friday,Nami,Dana,"Mabel, Linda, Kaili, Alison",None
+2026-12-12,Saturday,Reagan,Nami,None,None
+2026-12-13,Sunday,Dana,Reagan,None,None
+2026-12-14,Monday,Alison,Dana,"Mabel, Nami, Linda, Jenn",Kaili
+2026-12-15,Tuesday,Jenn,Alison,"Mabel, Nami, Cezanne","Reagan, Linda"
+2026-12-16,Wednesday,Nami,Jenn,"Reagan, Linda, Dana, Kaili",None
+2026-12-17,Thursday,Linda,Nami,"Reagan, Dana, Kaili, Alison",None
+2026-12-18,Friday,Mabel,Cezanne,"Reagan, Linda, Jenn, Kaili, Alison",None
+2026-12-19,Saturday,Kaili,Mabel,None,None
+2026-12-20,Sunday,Kaili,Cezanne,None,None
+2026-12-21,Monday,Mabel,Kaili,"Reagan, Nami, Dana",Linda
+2026-12-22,Tuesday,Reagan,Mabel,"Nami, Linda, Jenn, Alison",None
+2026-12-23,Wednesday,Dana,Reagan,"Nami, Linda, Kaili",None
+2026-12-24,Thursday,Alison,Dana,"Mabel, Nami",None
+2026-12-25,Friday 🎉 [HOLIDAY],Jenn,Alison,🏥 CLOSED,🏥 CLOSED
+2026-12-26,Saturday,Linda,Jenn,None,None
+2026-12-27,Sunday,Cezanne,Linda,None,None
+2026-12-28,Monday,Nami,Alison,"Mabel, Jenn, Dana",None
+2026-12-29,Tuesday,Jenn,Nami,"Reagan, Linda, Kaili",None
+2026-12-30,Wednesday,Kaili,Jenn,"Reagan, Linda, Alison",None
+2026-12-31,Thursday,Mabel,Kaili,"Nami, Alison","Reagan, Linda"
+2027-01-01,Friday 🎉 [HOLIDAY],Dana,Mabel,🏥 CLOSED,🏥 CLOSED
+2027-01-02,Saturday,Reagan,Dana,None,None
+2027-01-03,Sunday,Alison,Reagan,None,None
+2027-01-04,Monday,Mabel,Cezanne,"Nami, Linda, Jenn, Dana, Alison",None
+2027-01-05,Tuesday,Dana,Mabel,"Reagan, Nami, Linda, Kaili",Alison
+2027-01-06,Wednesday,Linda,Dana,"Reagan, Nami, Jenn, Kaili, Cezanne",None
+2027-01-07,Thursday,Jenn,Linda,"Mabel, Reagan, Alison",Nami
+2027-01-08,Friday,Kaili,Jenn,"Mabel, Dana, Alison",Reagan
+2027-01-09,Saturday,Nami,Kaili,None,None
+2027-01-10,Sunday,Mabel,Nami,None,None
+2027-01-11,Monday,Dana,Mabel,"Reagan, Linda, Jenn, Kaili, Alison",None
+2027-01-12,Tuesday,Cezanne,Dana,"Reagan, Nami, Linda, Kaili, Alison",None
+2027-01-13,Wednesday,Alison,Kaili,"Mabel, Nami, Jenn, Cezanne",None
+2027-01-14,Thursday,Reagan,Alison,"Mabel, Dana","Nami, Jenn"
+2027-01-15,Friday,Linda,Reagan,"Nami, Jenn, Dana, Kaili",None
+2027-01-16,Saturday,Jenn,Linda,None,None
+2027-01-17,Sunday,Dana,Jenn,None,None
+2027-01-18,Monday,Alison,Dana,"Mabel, Nami, Kaili",None
+2027-01-19,Tuesday 🎉 [HOLIDAY],Reagan,Alison,🏥 CLOSED,🏥 CLOSED
+2027-01-20,Wednesday,Nami,Cezanne,"Reagan, Linda, Jenn, Dana",Kaili
+2027-01-21,Thursday,Kaili,Nami,"Reagan, Linda, Jenn, Alison",None
+2027-01-22,Friday,Mabel,Kaili,None,"Reagan, Linda, Jenn, Alison"
+2027-01-23,Saturday,Linda,Mabel,None,None
+2027-01-24,Sunday,Kaili,Linda,None,None
+2027-01-25,Monday,Nami,Kaili,"Mabel, Reagan, Jenn, Dana, Alison",None
+2027-01-26,Tuesday,Jenn,Nami,"Mabel, Reagan, Linda, Dana, Alison",None
+2027-01-27,Wednesday,Alison,Jenn,"Mabel, Reagan, Linda, Kaili, Cezanne",None
+2027-01-28,Thursday,Cezanne,Alison,Nami,"Mabel, Reagan, Linda"
+2027-01-29,Friday,Dana,Reagan,"Nami, Linda, Jenn, Kaili",None
+2027-01-30,Saturday,Mabel,Dana,None,None
+2027-01-31,Sunday,Jenn,Mabel,None,None
+2027-02-01,Monday,Reagan,Jenn,"Nami, Linda, Dana, Kaili, Alison",None
+2027-02-02,Tuesday,Linda,Reagan,"Mabel, Nami, Dana, Kaili",Alison
+2027-02-03,Wednesday,Dana,Linda,"Mabel, Jenn, Kaili, Alison, Cezanne",None
+2027-02-04,Thursday,Kaili,Dana,"Mabel, Reagan, Jenn, Alison",None
+2027-02-05,Friday,Nami,Cezanne,"Reagan, Linda","Mabel, Kaili"
+2027-02-06,Saturday,Alison,Nami,None,None
+2027-02-07,Sunday,Dana,Alison,None,None
+2027-02-08,Monday,Linda,Dana,"Mabel, Reagan, Jenn, Kaili, Cezanne",None
+2027-02-09,Tuesday,Kaili,Linda,"Mabel, Reagan, Jenn, Alison",None
+2027-02-10,Wednesday,Mabel,Kaili,"Reagan, Nami, Dana, Alison",None
+2027-02-11,Thursday,Jenn,Mabel,"Reagan, Nami, Linda, Alison",None
+2027-02-12,Friday,Nami,Jenn,"Reagan, Linda, Dana, Kaili",Alison
+2027-02-13,Saturday,Cezanne,Nami,None,None
+2027-02-14,Sunday,Kaili,Cezanne,None,None
+2027-02-15,Monday,Reagan,Kaili,"Mabel, Nami, Jenn, Dana, Alison",None
+2027-02-16,Tuesday,Nami,Reagan,"Mabel, Linda, Jenn, Dana, Alison",None
+2027-02-17,Wednesday,Alison,Nami,"Mabel, Linda, Jenn, Kaili",None
+2027-02-18,Thursday,Dana,Alison,"Reagan, Jenn, Kaili",Mabel
+2027-02-19,Friday,Linda,Dana,"Reagan, Nami, Jenn, Cezanne",None
+2027-02-20,Saturday,Mabel,Linda,None,None
+2027-02-21,Sunday,Nami,Mabel,None,None
+2027-02-22,Monday,Cezanne,Nami,"Reagan, Linda, Jenn, Dana, Kaili, Alison",None
+2027-02-23,Tuesday,Alison,Kaili,"Mabel, Reagan, Linda",Dana
+2027-02-24,Wednesday,Reagan,Alison,"Mabel, Nami, Jenn, Cezanne",None
+2027-02-25,Thursday,Linda,Reagan,"Mabel, Nami, Dana, Kaili",None
+2027-02-26,Friday,Jenn,Linda,"Dana, Kaili, Alison",Mabel
+2027-02-27,Saturday,Dana,Jenn,None,None
+2027-02-28,Sunday,Reagan,Dana,None,None
+2027-03-01,Monday,Alison,Reagan,"Mabel, Nami, Linda, Kaili",None
+2027-03-02,Tuesday,Mabel,Cezanne,"Nami, Linda, Jenn, Dana, Alison",None
+2027-03-03,Wednesday,Linda,Mabel,"Reagan, Nami, Jenn, Alison",Dana
+2027-03-04,Thursday,Jenn,Linda,"Reagan, Dana, Kaili","Nami, Alison"
+2027-03-05,Friday,Kaili,Jenn,"Mabel, Dana, Alison, Cezanne",None
+2027-03-06,Saturday,Nami,Kaili,None,None
+2027-03-07,Sunday,Jenn,Nami,None,None
+2027-03-08,Monday,Linda,Jenn,"Mabel, Dana, Kaili, Alison",Reagan
+2027-03-09,Tuesday,Dana,Linda,"Mabel, Nami, Kaili, Alison, Cezanne",None
+2027-03-10,Wednesday,Cezanne,Dana,"Reagan, Nami, Jenn, Kaili",None
+2027-03-11,Thursday,Mabel,Kaili,"Reagan, Nami, Linda, Jenn",None
+2027-03-12,Friday,Alison,Mabel,"Reagan, Linda, Dana",Nami
+2027-03-13,Saturday,Reagan,Alison,None,None
+2027-03-14,Sunday,Kaili,Reagan,None,None
+2027-03-15,Monday,Mabel,Kaili,"Nami, Linda, Jenn, Dana, Alison",None
+2027-03-16,Tuesday,Jenn,Mabel,"Reagan, Nami, Linda, Alison, Cezanne",None
+2027-03-17,Wednesday,Nami,Jenn,"Reagan, Linda, Dana, Kaili",None
+2027-03-18,Thursday,Dana,Cezanne,"Mabel, Reagan, Nami, Kaili",Linda
+2027-03-19,Friday,Alison,Dana,"Mabel, Jenn","Reagan, Nami"
+2027-03-20,Saturday,Linda,Alison,None,None
+2027-03-21,Sunday,Linda,Cezanne,None,None
+2027-03-22,Monday,Nami,Linda,"Mabel, Reagan, Jenn, Dana, Kaili",None
+2027-03-23,Tuesday,Kaili,Nami,"Mabel, Reagan, Jenn, Cezanne",Dana
+2027-03-24,Wednesday,Reagan,Kaili,"Linda, Jenn, Dana, Alison",None
+2027-03-25,Thursday,Mabel,Reagan,"Nami, Linda, Jenn, Alison",None
+2027-03-26,Friday,Alison,Mabel,"Nami, Jenn, Dana, Kaili",None
+2027-03-27,Saturday,Dana,Alison,None,None
